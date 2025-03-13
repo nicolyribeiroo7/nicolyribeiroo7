@@ -8,7 +8,7 @@ Com determinação e foco, meu objetivo é seguir construindo minha carreira nes
 
 
 Siga no Instagram "@niribeiroo_".
-Email para contato "niick,rib01@gmail.com"
+Email para contato "niick.rib01@gmail.com"
 
 <p align="left">
     <a href="https://www.linkedin.com/in/nicoly-ribeiro-ab0440352/">
