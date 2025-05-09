@@ -1,6 +1,6 @@
 # Nicoly Ribeiro.🐚
 
-**`Estudante de Desenvolvimento de sistemas e programação JAVA no SENAI-SP`**
+**`Estudante de Desenvolvimento de sistemas no SENAI-SP`**
 
 Estou em busca de me inserir no mercado de trabalho para colocar em prática meus aprendizados e crescer profissionalmente.
 Minhas principais habilidades incluem desenvolvimento de sistemas, lógica de programação,língua inglesa, análise e resolução de problemas, além de possuir uma base sólida em banco de dados e técnicas de desenvolvimento ágil. Estou sempre em busca de novos desafios que me permitam expandir minhas habilidades e contribuir de maneira efetiva para o sucesso de projetos na área de tecnologia.
