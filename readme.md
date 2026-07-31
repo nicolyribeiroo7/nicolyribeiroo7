@@ -2,9 +2,7 @@
 
 **`Estudante de Desenvolvimento de sistemas no SENAI-SP`**
 
-Estou em busca de me inserir no mercado de trabalho para colocar em prática meus aprendizados e crescer profissionalmente.
-Minhas principais habilidades incluem desenvolvimento de sistemas, lógica de programação,língua inglesa, análise e resolução de problemas, além de possuir uma base sólida em técnicas de desenvolvimento ágil. Estou sempre em busca de novos desafios que me permitam expandir minhas habilidades e contribuir de maneira efetiva para o sucesso de projetos na área de tecnologia.
-Com determinação e foco, meu objetivo é seguir construindo minha carreira nesse universo tecnológico, oferecendo soluções inovadoras e me adaptando às necessidades do mercado.
+Estudante de Desenvolvimento de Sistemas, em busca de oportunidades para aplicar meus conhecimentos, aprender continuamente e crescer profissionalmente na área de TI.
 
 
 Siga no Instagram "@niribeiroo_".
