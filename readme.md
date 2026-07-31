@@ -1,6 +1,6 @@
 # Nicoly Ribeiro.🐚
 
-**`Estudante de Desenvolvimento de sistemas no SENAI-SP`**
+
 
 Estudante de Desenvolvimento de Sistemas, em busca de oportunidades para aplicar meus conhecimentos, aprender continuamente e crescer profissionalmente na área de TI.
 
